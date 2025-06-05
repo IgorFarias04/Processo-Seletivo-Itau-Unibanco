@@ -1,2 +1,10 @@
-# Projeto-T-cnico---Processo-Seletivo-Ita-Unibanco
-Projeto técnico do processo seletivo para Engenheiro de TI Júnior no Itaú Unibanco – Sistema de controle de investimentos em renda variável utilizando .NET Core, MySQL e boas práticas de arquitetura e testes.
+💼 Projeto Técnico - Processo Seletivo Itaú Unibanco
+Este repositório contém a solução do desafio técnico para a segunda fase do processo seletivo para Engenheiro de TI Júnior no Itaú Unibanco.
+
+Descrição do Projeto
+Sistema para controle de investimentos em renda variável, focando em performance, escalabilidade e boas práticas de desenvolvimento. Utiliza .NET Core, MySQL, arquitetura limpa, testes automatizados e integração com eventos Kafka.
+
+Tecnologias Utilizadas
+.NET 8 (C#)
+MySQL
+

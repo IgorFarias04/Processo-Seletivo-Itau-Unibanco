@@ -8,5 +8,5 @@ Sistema para controle de investimentos em renda variável, focando em performanc
 Tecnologias Utilizadas
 .NET 8 (C#)
 MySQL
-L
+
 
